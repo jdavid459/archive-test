@@ -14,7 +14,7 @@ You will need jupyter notebook or jupyter lab installed to explore the .ipynb fi
 1.  Run a web scraper that will pull down the data within the NACCRR table.  
 source:  https://bw-interviews.herokuapp.com/data/providers
 
-```retrive_web.py```
+```retrive_scraped.py```
 
 2.  Run a web scraper that will pull down the data from the Heroku API.  
 source:  http://naccrrapps.naccrra.org/navy/directory/programs.php?program=omcc&state=CA
