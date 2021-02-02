@@ -21,7 +21,7 @@ source:  http://naccrrapps.naccrra.org/navy/directory/programs.php?program=omcc&
 
 ```retrive_api.py```
 
-3.  Run the following script to clean up and standardize data formats (i.e. phone numbers), deduplicate the data, and create a final combined data set.
+3.  Run the following script to clean up and standardize data formats (i.e. phone numbers), deduplicate the data, and create a final combined data set.  Unfortunately did not have much time to work on this step and had various questions around this step (see notes below).
 
 ```clean_data.py```
 
